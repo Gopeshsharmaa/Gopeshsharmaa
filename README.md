@@ -26,9 +26,9 @@
 ### 🏆 Problem Solving
 🔥 Solved **800+ DSA problems** → 650+ on LeetCode & 150+ on GeeksforGeeks  
 
-[![LeetCode Profile](https://raw.githubusercontent.com/Gopeshsharmaa/Gopeshsharmaa/main/assets/leetcode.png)](https://leetcode.com/Gopeshsharmaa)
- 
+[![LeetCode Profile](https://raw.githubusercontent.com/Gopeshsharmaa/Gopeshsharmaa/main/images/leetcode.png)](https://leetcode.com/Gopeshsharmaa)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/gopeshk2ljr)
+
 
 ---
 
