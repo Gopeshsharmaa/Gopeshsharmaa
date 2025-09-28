@@ -26,23 +26,25 @@
 ### 🏆 Problem Solving
 🔥 Solved **800+ DSA problems** → 650+ on LeetCode & 150+ on GeeksforGeeks  
 
-[![LeetCode Profile](https://assets.leetcode.com/users/Gopeshsharmaa/avatar_1713615984.png)](https://leetcode.com/Gopeshsharmaa)  
+[![LeetCode Profile](https://raw.githubusercontent.com/Gopeshsharmaa/Gopeshsharmaa/main/assets/leetcode.png)](https://leetcode.com/Gopeshsharmaa)
+ 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/gopeshk2ljr)
 
 ---
-### 📊 GitHub Stats
-![Gopesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopeshsharmaa&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gopeshsharmaa&layout=compact&theme=radical)
 
----
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/yourusername)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)  
+[My Portfolio](https://gopeshsharmaa.github.io/Single-page-portfolio-website/) 
 
 
 ---
 
+### 📊 GitHub Stats
+![Gopesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopeshsharmaa&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gopeshsharmaa&layout=compact&theme=radical)
+
+---
 ⭐️ From [Gopeshsharmaa](https://github.com/Gopeshsharmaa)
