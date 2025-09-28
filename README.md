@@ -38,7 +38,7 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/yourusername)
 <p>
   <a href="https://gopeshsharmaa.github.io/Single-page-portfolio-website/">
-    <img src="https://raw.githubusercontent.com/Gopeshsharmaa/Gopeshsharmaa/main/OIP.jpeg" alt="Portfolio" width="100" height="20"/>
+    <img src="https://raw.githubusercontent.com/Gopeshsharmaa/Gopeshsharmaa/main/OIP.jpeg" alt="Portfolio" width="120" height="40"/>
   </a>
 </p>
 
