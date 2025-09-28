@@ -3,7 +3,7 @@
 💻 B.Tech CSE | 2nd Year Student  
 🚀 Learning MERN Stack & sharpening my DSA skills  
 📚 Interested in Web Development, Problem Solving, and Open Source  
-🔥 Solved **800+ DSA problems** → 650+ on LeetCode & 150+ on GeeksforGeeks  
+🔥 Solved **800+ DSA problems** → 630+ on LeetCode & 150+ on GeeksforGeeks  
 
 ---
 
