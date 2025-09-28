@@ -24,10 +24,17 @@
 
 ---
 ### 🏆 Problem Solving
-🔥 Solved **800+ DSA problems** → 650+ on LeetCode & 150+ on GeeksforGeeks  
-
-[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://leetcode.com/Gopeshsharmaa)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/gopeshk2ljr)
+<p>
+  Solved <b>800+ DSA problems</b> → 650+ on LeetCode & 150+ on GeeksforGeeks
+</p>
+<p>
+  <a href="https://leetcode.com/Gopeshsharmaa">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="80"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/gopeshk2ljr">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" height="30"/>
+  </a>
+</p>
 
 
 
@@ -38,7 +45,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/yourusername) 
-[![Portfolio](https://raw.githubusercontent.com/Gopeshsharmaa/Gopeshsharmaa/main/images/portfolio.png)](https://gopeshsharmaa.github.io/Single-page-portfolio-website/)
+ 🌐 Portfolio
+<p>
+  <a href="https://gopeshsharmaa.github.io/Single-page-portfolio-website/">
+    <img src="https://raw.githubusercontent.com/Gopeshsharmaa/Gopeshsharmaa/main/images/portfolio.png" alt="Portfolio" width="300"/>
+  </a>
+</p>
 
 
 
