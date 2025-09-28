@@ -24,26 +24,11 @@
 
 ---
 
-<a href="https://gopeshsharmaa.github.io/Single-page-portfolio-website/">
-  <img src="https://raw.githubusercontent.com/Gopeshsharmaa/Gopeshsharmaa/main/Screenshot%202025-09-28%20194637.png" alt="Portfolio" width="300"/>
-</a>
-
-
----
-
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/yourusername)
-<p>
-  <a href="https://gopeshsharmaa.github.io/Single-page-portfolio-website/">
-    <img src="https://raw.githubusercontent.com/Gopeshsharmaa/Gopeshsharmaa/main/OIP.jpeg" alt="Portfolio" width="120" height="60"/>
-  </a>
-</p>
-
-
-
 
 
 ---
