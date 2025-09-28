@@ -21,6 +21,11 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+---
+
+### 📊 GitHub Stats
+![Gopesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopeshsharmaa&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gopeshsharmaa&layout=compact&theme=radical)
 
 ---
 
@@ -30,12 +35,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/yourusername)
 
-
----
-
-### 📊 GitHub Stats
-![Gopesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopeshsharmaa&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gopeshsharmaa&layout=compact&theme=radical)
 
 ---
 ⭐️ From [Gopeshsharmaa](https://github.com/Gopeshsharmaa)
