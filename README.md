@@ -23,19 +23,10 @@
 
 
 ---
-### 🏆 Problem Solving
-<p>
-  Solved <b>800+ DSA problems</b> → 650+ on LeetCode & 150+ on GeeksforGeeks
-</p>
-<p>
-  <a href="https://leetcode.com/Gopeshsharmaa">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="80"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/gopeshk2ljr">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" height="30"/>
-  </a>
-</p>
 
+<a href="https://gopeshsharmaa.github.io/Single-page-portfolio-website/">
+  <img src="https://raw.githubusercontent.com/Gopeshsharmaa/Gopeshsharmaa/main/Screenshot%202025-09-28%20194637.png" alt="Portfolio" width="300"/>
+</a>
 
 
 ---
